@@ -1,0 +1,8 @@
+RENCANA HIDUP
+
+- Belajar Programming
+  * Flutter
+  * Fullstack-Development
+  * Unity, Godot
+- Belajar Bahasa Asing
+- Buat blog sederhana untuk jurnal
