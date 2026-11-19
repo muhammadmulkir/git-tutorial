@@ -5,4 +5,6 @@ RENCANA HIDUP
   * Fullstack-Development
   * Unity, Godot
 - Belajar Bahasa Asing
+  * Bahasa Inggris
+  * Bahasa Jerman
 - Buat blog sederhana untuk jurnal
