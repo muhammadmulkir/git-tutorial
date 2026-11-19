@@ -6,6 +6,7 @@ RENCANA HIDUP
   * Unity, Godot
 - Belajar Bahasa Asing
   * Bahasa Inggris
-  * Bahasa Russia
+  * Bahasa Jerman
+  * Bahasa Jepang
 - Buat blog sederhana untuk jurnal
-- Harus Konsisten
+- Harus ideal
