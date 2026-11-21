@@ -2,3 +2,4 @@ Ini adalah baris pertama
 Ini adalah baris kedua
 Ini adalah baris keempat
 Ini adalah baris kelima
+Ini adalah baris keenam
